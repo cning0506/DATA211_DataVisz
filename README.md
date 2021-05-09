@@ -1,4 +1,6 @@
-# DATA211_Data Visualization Class with Professor Ronald Smith 
+# Welcome to DATA211_Data Visualization Course Repository 
+
+Data Visz with Professor Ronald Smith 
 
 ### This repository is dedicated to the Final Project created by Conrad Ning and Frank Qiu
 
