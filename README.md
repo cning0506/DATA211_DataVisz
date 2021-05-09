@@ -3,6 +3,6 @@
 
 ### This repository is dedicated to the Final Project created by Conrad Ning and Frank Qiu
 
-### [Link to the Final Project](https://cning0506.github.io/DATA-211_DataVisz/FinalProject.html)
+### [Link to the Final Project](https://cning0506.github.io/DATA211_DataVisz/FinalProject.html)
 
 
