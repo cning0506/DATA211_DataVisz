@@ -1,6 +1,5 @@
 # Welcome to DATA211_Data Visualization Course Repository 
 
-## Lecturer: Professor Ronald Smith 
 
 ### This repository is dedicated to the Final Project created by Conrad Ning and Frank Qiu
 
